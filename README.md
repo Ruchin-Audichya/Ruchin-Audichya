@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ruchin Audichya!
 👩🏻‍💻 A Big Data Enthusiast and a Software Engineer sharing about my journey and learnings in tech<br/>
 🌐 I am also currently learning about Frontend Development.<br/>
-👩🏻‍🎓 Studying Computer Science spez. Data Science and Data Analytics at the JECRC University, Jaipur, India <br/>
+👩🏻‍🎓 Studying Computer Science spez. Amazon Web Services (AWS) at the JECRC University, Jaipur, India <br/>
 💭 Currently learning about data analytics and data science!<br/>
 
 # 💫 About Me:
