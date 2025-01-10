@@ -2,7 +2,7 @@
 👩🏻‍💻 A Cloud Computing Enthusiast and a Software Engineer sharing about my journey and learnings in tech<br/>
 🌐 I am also currently learning about Frontend Development.<br/>
 👩🏻‍🎓 Studying Computer Science spez. Amazon Web Services (AWS) at the JECRC University, Jaipur, India <br/>
-💭 Currently learning about Cloud Computing!<br/>
+- 📫 How to reach me **ruchinaudichya09@gmail.com**<br/>
 
 # 💫 About Me:
 🌱 I’m currently learning Cloud Computing.<br>💬 Ask me about Python <br>⚡ Fun fact, I am a Producer/Gamer too.<br>
