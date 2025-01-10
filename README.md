@@ -5,8 +5,7 @@
 💭 Currently learning about data analytics and data science!<br/>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🤝 I’m looking to collaborate on<br>JavaScript projects like games or interactive applications.<br>⚡ Fun fact<br>I enjoy mixing tech creativity with meaningful gestures<br>I know how to balance being both productive and fun<br>
-
+🌱 I’m currently learning Cloud Computing.<br>💬 Ask me about Python <br>⚡ Fun fact, I am a Producer/Gamer too.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruchinaudichya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ruchin268) 
