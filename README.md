@@ -1,29 +1,65 @@
-# 👋 Hi, I'm Ruchin Audichya!
-👩🏻‍💻 A Cloud Computing Enthusiast and a Software Engineer sharing about my journey and learnings in tech<br/>
-🌐 I am also currently learning about Frontend Development.<br/>
-👩🏻‍🎓 Studying Computer Science spez. Amazon Web Services (AWS) at the JECRC University, Jaipur, India <br/>
-- 📫 How to reach me **ruchinaudichya09@gmail.com**<br/>
+<div align="center">
 
-# 💫 About Me:
-🌱 I’m currently learning Cloud Computing.<br>💬 Ask me about Python <br>⚡ Fun fact, I am a Producer/Gamer too.<br>
+# 👋 Hey, I'm **Ruchin Audichya**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ruchinaudichya)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ruchin268)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ruchin_audichya/)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=800&lines=Cloud+Computing+%7C+Software+Engineering;AWS+Learner+%7C+Frontend+Explorer;Building+in+Public+in+2026+%F0%9F%9A%80" alt="Typing intro" />
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ruchin-Audichya&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ruchin-Audichya?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ruchin-Audichya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ruchin-Audichya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchin-Audichya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ruchin-Audichya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ruchin-Audichya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ 2026 Snapshot
+- 🎓 Computer Science (AWS specialization), JECRC University, Jaipur.
+- ☁️ Focused on **Cloud + DevOps + Modern Web**.
+- 🧠 Currently leveling up in **Frontend Development** and production-grade engineering.
+- 🎮 Fun fact: I’m also into **gaming and music production**.
+- 📫 Reach me: **ruchinaudichya09@gmail.com**
+
+## 🌍 Connect With Me
+<p>
+  <a href="https://discord.gg/ruchinaudichya"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/Ruchin268"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ruchin_audichya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+## 🧰 Tech Toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,python,javascript,java,cpp,c,html,css,vite,vercel,netlify,figma,git,github,vscode" />
+</p>
+
+## 📊 Live GitHub Analytics
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchin-Audichya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchin-Audichya&theme=tokyonight&hide_border=true" />
+</p>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchin-Audichya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=Ruchin-Audichya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+## ⚡ Real-Time Profile Feed
+<!--START_SECTION:activity-->
+- 🌙 No recent public activity found yet.
+<!--END_SECTION:activity-->
+
+## 🕒 Live Metadata
+<!--START_SECTION:metadata-->
+- Last README refresh: 2026-05-04 08:24:42 UTC
+- Time zone: UTC
+- Automation: GitHub Actions + Python
+<!--END_SECTION:metadata-->
+
+---
+
+## 🤖 Auto-Update System (2026)
+This profile README self-updates using a GitHub Actions workflow + Python script:
+- Pulls latest public GitHub events.
+- Refreshes "Last README refresh" timestamp.
+- Commits changes automatically on schedule.
+
+If you fork this setup, just update the username in `scripts/update_readme.py`.
