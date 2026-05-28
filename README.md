@@ -57,15 +57,6 @@
 <!--START_SECTION:metadata-->
 - Last README refresh: 2026-05-28 10:05:21 UTC
 - Time zone: UTC
-- Automation: GitHub Actions + Python
 <!--END_SECTION:metadata-->
 
 ---
-
-## 🤖 Auto-Update System (2026)
-This profile README self-updates using a GitHub Actions workflow + Python script:
-- Pulls latest public GitHub events.
-- Refreshes "Last README refresh" timestamp.
-- Commits changes automatically on schedule.
-
-If you fork this setup, just update the username in `scripts/update_readme.py`.
