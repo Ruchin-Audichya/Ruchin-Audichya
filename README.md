@@ -49,6 +49,13 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### 🛠️ Recently active
 
 <!--START:projects-->
+| Project | What it is | Built with | Updated |
+| --- | --- | --- | --- |
+| [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | — | TypeScript | 1 week ago |
+| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | — | TypeScript | 1 week ago |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | — | TypeScript | 4 months ago |
+| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 5 months ago |
+| [**BakchodAI**](https://github.com/Ruchin-Audichya/BakchodAI) ⭐ 3 | — | Python | 1 year ago |
 <!--END:projects-->
 
 ### 🧰 Toolbox
@@ -60,6 +67,7 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### 📈 On GitHub
 
 <!--START:stats-->
+![Public repos](https://img.shields.io/badge/Public%20repos-24-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-8-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
 <!--END:stats-->
 
 <p>
@@ -74,6 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
+- 🚀 Pushed to [StudentPilot](https://github.com/Ruchin-Audichya/StudentPilot) · `codex/job-search-autoapply` <sub>1 week ago</sub>
+- 🚀 Pushed to [Yatra-Sync](https://github.com/Ruchin-Audichya/Yatra-Sync) <sub>1 week ago</sub>
+- 🔀 Opened PR #3 in [StudentPilot](https://github.com/Ruchin-Audichya/StudentPilot) <sub>1 week ago</sub>
+- 🍴 Forked [vaduur/LibertyRecompAndroid](https://github.com/vaduur/LibertyRecompAndroid) <sub>2 weeks ago</sub>
+- ⭐ Starred [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) <sub>2 weeks ago</sub>
+- 🍴 Forked [shadany7824/playgta5](https://github.com/shadany7824/playgta5) <sub>3 weeks ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>

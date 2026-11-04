@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="122" viewBox="0 0 480 122" role="img" aria-label="Most used languages">
+<style>text{font:500 13px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}.t{font-weight:700;font-size:14px}</style>
+<text class="t" x="0" y="18">Most used languages</text>
+<clipPath id="r"><rect x="0" y="38" width="480" height="10" rx="5"/></clipPath>
+<g clip-path="url(#r)"><rect x="0.0" y="38" width="169.4" height="10" fill="#3178c6"/><rect x="169.4" y="38" width="141.2" height="10" fill="#3572A5"/><rect x="310.6" y="38" width="112.9" height="10" fill="#e34c26"/><rect x="423.5" y="38" width="56.5" height="10" fill="#f1e05a"/></g>
+<circle cx="6" cy="70" r="5" fill="#3178c6"/><text x="18" y="74">TypeScript <tspan fill-opacity=".6">35%</tspan></text><circle cx="166" cy="70" r="5" fill="#3572A5"/><text x="178" y="74">Python <tspan fill-opacity=".6">29%</tspan></text><circle cx="326" cy="70" r="5" fill="#e34c26"/><text x="338" y="74">HTML <tspan fill-opacity=".6">24%</tspan></text><circle cx="6" cy="94" r="5" fill="#f1e05a"/><text x="18" y="98">JavaScript <tspan fill-opacity=".6">12%</tspan></text>
+</svg>
