@@ -134,10 +134,7 @@ def describe(event: dict) -> str | None:
     if kind == "ReleaseEvent":
         rel = p.get("release", {}) or {}
         return f"📦 Released {escape(rel.get('tag_name') or '')} of {repo}"
-    if kind == "WatchEvent":
-        return f"⭐ Starred {repo}"
-    if kind == "ForkEvent":
-        return f"🍴 Forked {repo}"
+    # Stars and forks of other people's repositories aren't shown: the feed is about own work.
     if kind == "PublicEvent":
         return f"🌍 Made {repo} public"
     return None
