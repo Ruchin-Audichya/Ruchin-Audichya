@@ -1,63 +1,79 @@
 <div align="center">
 
-# 👋 Hey, I'm **Ruchin Audichya**
+# Hey, I'm Ruchin 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=800&lines=Cloud+Computing+%7C+Software+Engineering;AWS+Learner+%7C+Frontend+Explorer;Building+in+Public+in+2026+%F0%9F%9A%80" alt="Typing intro" />
+<a href="https://github.com/Ruchin-Audichya">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=10B981&center=true&vCenter=true&width=640&lines=I+build+products+people+actually+use.;Cloud+%C2%B7+Full-stack+%C2%B7+Telegram+bots;Currently+shipping+MediFast+%F0%9F%92%8A" alt="I build products people actually use. Cloud, full-stack, Telegram bots. Currently shipping MediFast." />
+</a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ruchin-Audichya&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ruchin-Audichya?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <a href="mailto:ruchinaudichya09@gmail.com"><img src="https://img.shields.io/badge/Email-ruchinaudichya09%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Ruchin268"><img src="https://img.shields.io/badge/X-@Ruchin268-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/ruchin_audichya/"><img src="https://img.shields.io/badge/Instagram-ruchin__audichya-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/ruchinaudichya"><img src="https://img.shields.io/badge/Discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 </div>
 
----
+### About me
 
-## ✨ 2026 Snapshot
-- 🎓 Computer Science (AWS specialization), JECRC University, Jaipur.
-- ☁️ Focused on **Cloud + DevOps + Modern Web**.
-- 🧠 Currently leveling up in **Frontend Development** and production-grade engineering.
-- 🎮 Fun fact: I’m also into **gaming and music production**.
-- 📫 Reach me: **ruchinaudichya09@gmail.com**
+- 🎓 Computer Science (AWS specialization) at **JECRC University**, Jaipur
+- ☁️ I like the whole stack: **cloud, backend, and the UI people actually touch**
+- 🤖 Lately: **Telegram bots, Mini Apps and real-time systems**
+- 🎮 Off the keyboard: gaming and music production
 
-## 🌍 Connect With Me
+### ⭐ Featured: MediFast
+
+<table>
+<tr>
+<td width="58%">
+
+**Ask every chemist nearby. At once.**
+
+Send your medicine list on Telegram. Every participating pharmacy nearby taps what they have, and you watch the answers arrive live. Reserve, then pick up.
+
+- Telegram bot + Mini App for customers *and* pharmacists
+- Live, self-updating answers and a map
+- Exact medicine matching: `Pan 20` never becomes `Pan 40`
+- TypeScript · Node · SQLite · React, tested end to end
+
+<a href="https://github.com/Ruchin-Audichya/MediFastRX-Bot"><b>View the project →</b></a>
+
+</td>
+<td width="42%">
+<a href="https://github.com/Ruchin-Audichya/MediFastRX-Bot"><img src="https://raw.githubusercontent.com/Ruchin-Audichya/MediFastRX-Bot/main/docs/screenshots/board-phone.png" alt="MediFast live answer board" /></a>
+</td>
+</tr>
+</table>
+
+### 🛠️ Recently active
+
+<!--START:projects-->
+<!--END:projects-->
+
+### 🧰 Toolbox
+
 <p>
-  <a href="https://discord.gg/ruchinaudichya"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://x.com/Ruchin268"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ruchin_audichya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,react,nodejs,express,vite,sqlite,firebase,aws,gcp,docker,git,github,vercel,figma&perline=9" alt="TypeScript, JavaScript, Python, Java, C++, React, Node.js, Express, Vite, SQLite, Firebase, AWS, Google Cloud, Docker, Git, GitHub, Vercel, Figma" />
 </p>
 
-## 🧰 Tech Toolbox
+### 📈 On GitHub
+
+<!--START:stats-->
+<!--END:stats-->
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,python,javascript,java,cpp,c,html,css,vite,vercel,netlify,figma,git,github,vscode" />
+  <img src="assets/languages.svg" alt="Most used languages" />
 </p>
 
-## 📊 Live GitHub Analytics
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruchin-Audichya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchin-Audichya&theme=tokyonight&hide_border=true" />
-</p>
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchin-Audichya&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=Ruchin-Audichya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruchin-Audichya/Ruchin-Audichya/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ruchin-Audichya/Ruchin-Audichya/output/snake.svg" alt="Contribution graph being eaten by a snake" />
+</picture>
 
-## ⚡ Real-Time Profile Feed
-<!--START_SECTION:activity-->
-- 🛠️ Created branch `codex/job-search-autoapply` in `Ruchin-Audichya/StudentPilot`
-- 🚀 Pushed **0 commit(s)** to `Ruchin-Audichya/StudentPilot` on `job-search-autoapply`
-- 📌 IssueComment in `Ruchin-Audichya/StudentPilot`
-- 🚀 Pushed **0 commit(s)** to `Ruchin-Audichya/StudentPilot` on `job-search-autoapply`
-- 🚀 Pushed **0 commit(s)** to `Ruchin-Audichya/Yatra-Sync` on `main`
-- 🔃 Opened PR **#3** in `Ruchin-Audichya/StudentPilot`
-- 🚀 Pushed **0 commit(s)** to `Ruchin-Audichya/Yatra-Sync` on `main`
-<!--END_SECTION:activity-->
+### ⚡ Latest activity
 
-## 🕒 Live Metadata
-<!--START_SECTION:metadata-->
-- Last README refresh: 2026-11-03 22:58:04 UTC
-- Time zone: UTC
-- Automation: GitHub Actions + Python
-<!--END_SECTION:metadata-->
+<!--START:activity-->
+<!--END:activity-->
 
----
+<p align="right"><sub>This page refreshes itself every day.</sub></p>

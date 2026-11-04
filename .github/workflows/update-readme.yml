@@ -1,38 +1,61 @@
-name: Update Profile README
+name: Refresh profile
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "41 2 * * *" # every day, 08:11 IST
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: false
+
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+  readme:
+    runs-on: ubuntu-24.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
-      - name: Update README dynamic sections
+      - name: Refresh projects, activity, stats and language chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_readme.py
 
-      - name: Commit and push if changed
+      - name: Commit if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "chore: auto-update profile README"
+          git add README.md assets/
+          git diff --cached --quiet && { echo "Nothing new today."; exit 0; }
+          git commit -m "Refresh profile"
           git push
+
+  snake:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Refresh contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
