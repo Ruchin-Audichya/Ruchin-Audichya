@@ -51,11 +51,11 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | — | TypeScript | today |
+| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | today |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | — | TypeScript | yesterday |
 | [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | — | TypeScript | 1 week ago |
 | [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | — | TypeScript | 1 week ago |
 | [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 5 months ago |
-| [**BakchodAI**](https://github.com/Ruchin-Audichya/BakchodAI) ⭐ 3 | — | Python | 1 year ago |
 <!--END:projects-->
 
 ### 🧰 Toolbox
@@ -67,7 +67,7 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### 📈 On GitHub
 
 <!--START:stats-->
-![Public repos](https://img.shields.io/badge/Public%20repos-24-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-8-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
+![Public repos](https://img.shields.io/badge/Public%20repos-25-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-9-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
 <!--END:stats-->
 
 <p>
@@ -82,9 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
+- 📦 Released v0.3.1 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>today</sub>
+- 📦 Released v0.3.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>today</sub>
+- 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) <sub>yesterday</sub>
+- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
 - 🚀 Pushed to [StudentPilot](https://github.com/Ruchin-Audichya/StudentPilot) · `codex/job-search-autoapply` <sub>1 week ago</sub>
 - 🚀 Pushed to [Yatra-Sync](https://github.com/Ruchin-Audichya/Yatra-Sync) <sub>1 week ago</sub>
-- 🔀 Opened PR #3 in [StudentPilot](https://github.com/Ruchin-Audichya/StudentPilot) <sub>1 week ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
