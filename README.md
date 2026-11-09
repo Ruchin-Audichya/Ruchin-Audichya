@@ -51,8 +51,8 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 3 days ago |
-| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | — | TypeScript | 4 days ago |
+| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 4 days ago |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | — | TypeScript | 5 days ago |
 | [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | — | TypeScript | 2 weeks ago |
 | [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | — | TypeScript | 2 weeks ago |
 | [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 5 months ago |
@@ -67,7 +67,7 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### 📈 On GitHub
 
 <!--START:stats-->
-![Public repos](https://img.shields.io/badge/Public%20repos-25-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-9-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
+![Public repos](https://img.shields.io/badge/Public%20repos-26-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-9-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
 <!--END:stats-->
 
 <p>
@@ -82,12 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
-- 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) · `claude/magical-rubin-rwoouv` <sub>4 days ago</sub>
-- 🚀 Pushed to [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>3 days ago</sub>
-- 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) <sub>4 days ago</sub>
-- 📦 Released v0.3.1 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>3 days ago</sub>
-- 📦 Released v0.3.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>3 days ago</sub>
-- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>4 days ago</sub>
+- 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) · `claude/magical-rubin-rwoouv` <sub>5 days ago</sub>
+- 🚀 Pushed to [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>4 days ago</sub>
+- 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) <sub>5 days ago</sub>
+- 📦 Released v0.3.1 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>4 days ago</sub>
+- 📦 Released v0.3.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>4 days ago</sub>
+- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>5 days ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
