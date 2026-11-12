@@ -51,10 +51,10 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 6 days ago |
-| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | — | TypeScript | 1 week ago |
-| [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | — | TypeScript | 2 weeks ago |
-| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | — | TypeScript | 2 weeks ago |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | today |
+| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 1 week ago |
+| [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | Find My Stipend: one internship search across Internshala, LinkedIn and company career… | TypeScript | 2 weeks ago |
+| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 2 weeks ago |
 | [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 5 months ago |
 <!--END:projects-->
 
@@ -82,12 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
+- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>today</sub>
 - 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) · `claude/magical-rubin-rwoouv` <sub>1 week ago</sub>
-- 🚀 Pushed to [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>6 days ago</sub>
+- 🚀 Pushed to [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>1 week ago</sub>
 - 🚀 Pushed to [MediFastRX-Bot](https://github.com/Ruchin-Audichya/MediFastRX-Bot) <sub>1 week ago</sub>
-- 📦 Released v0.3.1 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>6 days ago</sub>
-- 📦 Released v0.3.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>6 days ago</sub>
-- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>1 week ago</sub>
+- 📦 Released v0.3.1 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>1 week ago</sub>
+- 📦 Released v0.3.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>1 week ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
