@@ -51,10 +51,10 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | yesterday |
-| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | yesterday |
-| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | yesterday |
-| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | yesterday |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | today |
+| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 2 days ago |
+| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 2 days ago |
+| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 2 days ago |
 | [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | Find My Stipend: one internship search across Internshala, LinkedIn and company career… | TypeScript | 3 weeks ago |
 <!--END:projects-->
 
@@ -82,12 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
-- 🚀 Pushed to [MediAtlas](https://github.com/Ruchin-Audichya/MediAtlas) <sub>yesterday</sub>
-- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
-- 📦 Released v0.5.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>yesterday</sub>
-- 🔀 Merged PR #2 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
-- 🔀 Opened PR #2 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
-- 🔀 Merged PR #1 in [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>yesterday</sub>
+- 🔀 Merged PR #3 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>today</sub>
+- 🔀 Opened PR #3 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>today</sub>
+- 🚀 Pushed to [MediAtlas](https://github.com/Ruchin-Audichya/MediAtlas) <sub>2 days ago</sub>
+- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>2 days ago</sub>
+- 📦 Released v0.5.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>2 days ago</sub>
+- 🔀 Merged PR #2 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>2 days ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
