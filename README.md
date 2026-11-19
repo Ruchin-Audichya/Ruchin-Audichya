@@ -51,11 +51,11 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | yesterday |
-| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 3 days ago |
-| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 3 days ago |
-| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 3 days ago |
-| [**StudentPilot**](https://github.com/Ruchin-Audichya/StudentPilot) | Find My Stipend: one internship search across Internshala, LinkedIn and company career… | TypeScript | 3 weeks ago |
+| [**velo**](https://github.com/Ruchin-Audichya/velo) | Velo: WhatsApp, at home on Windows. A fast, native desktop client (unofficial). | — | yesterday |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | 2 days ago |
+| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 4 days ago |
+| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 4 days ago |
+| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 4 days ago |
 <!--END:projects-->
 
 ### 🧰 Toolbox
@@ -67,7 +67,7 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### 📈 On GitHub
 
 <!--START:stats-->
-![Public repos](https://img.shields.io/badge/Public%20repos-13-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-6-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
+![Public repos](https://img.shields.io/badge/Public%20repos-15-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-6-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-3-10b981?style=flat-square)
 <!--END:stats-->
 
 <p>
@@ -82,12 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
-- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
-- 🔀 Merged PR #3 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
-- 🔀 Opened PR #3 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>yesterday</sub>
-- 🚀 Pushed to [MediAtlas](https://github.com/Ruchin-Audichya/MediAtlas) <sub>3 days ago</sub>
-- 📦 Released v0.5.0 of [anvil-usb](https://github.com/Ruchin-Audichya/anvil-usb) <sub>3 days ago</sub>
-- 🔀 Merged PR #2 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>3 days ago</sub>
+- 🔀 Opened PR #483644 in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) <sub>yesterday</sub>
+- 📦 Released v1.0.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
+- 🚀 Pushed to [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>2 days ago</sub>
+- 🔀 Merged PR #3 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>2 days ago</sub>
+- 🔀 Opened PR #3 in [portfolio](https://github.com/Ruchin-Audichya/portfolio) <sub>2 days ago</sub>
+- 🚀 Pushed to [MediAtlas](https://github.com/Ruchin-Audichya/MediAtlas) <sub>4 days ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
