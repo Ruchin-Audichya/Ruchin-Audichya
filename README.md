@@ -51,11 +51,11 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**velo**](https://github.com/Ruchin-Audichya/velo) ⭐ 3 | Velo: WhatsApp, at home on Windows. A fast, native desktop client (unofficial). | — | yesterday |
-| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | 4 days ago |
-| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 6 days ago |
-| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 6 days ago |
-| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 6 days ago |
+| [**velo**](https://github.com/Ruchin-Audichya/velo) ⭐ 7 | Velo: WhatsApp, at home on Windows. A fast, native desktop client (unofficial). | Rust | yesterday |
+| [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | 5 days ago |
+| [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 1 week ago |
+| [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 1 week ago |
+| [**anvil-usb**](https://github.com/Ruchin-Audichya/anvil-usb) ⭐ 1 | Forge bootable Windows & Linux USB drives with just your Android phone — no PC, no root… | Kotlin | 1 week ago |
 <!--END:projects-->
 
 ### 🧰 Toolbox
@@ -67,7 +67,7 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### 📈 On GitHub
 
 <!--START:stats-->
-![Public repos](https://img.shields.io/badge/Public%20repos-15-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-9-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-4-10b981?style=flat-square)
+![Public repos](https://img.shields.io/badge/Public%20repos-15-0ea5e9?style=flat-square) ![Stars earned](https://img.shields.io/badge/Stars%20earned-13-f59e0b?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-4-10b981?style=flat-square)
 <!--END:stats-->
 
 <p>
@@ -82,12 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
-- 🚀 Pushed to [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
-- 🚀 Pushed to [winget-pkgs](https://github.com/Ruchin-Audichya/winget-pkgs) · `RuchinAudichya.Velo-1.0.0` <sub>3 days ago</sub>
-- 📦 Released v1.2.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
-- 📦 Released v1.1.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
-- 🔀 Opened PR #483644 in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) <sub>3 days ago</sub>
-- 📦 Released v1.0.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>3 days ago</sub>
+- 🚀 Pushed to [velo](https://github.com/Ruchin-Audichya/velo) <sub>2 days ago</sub>
+- 🔀 Closed PR #2 in [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
+- 🚀 Pushed to [winget-pkgs](https://github.com/Ruchin-Audichya/winget-pkgs) · `RuchinAudichya.Velo-1.0.0` <sub>4 days ago</sub>
+- 📦 Released v1.2.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>2 days ago</sub>
+- 📦 Released v1.1.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>2 days ago</sub>
+- 🔀 Opened PR #483644 in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) <sub>4 days ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
