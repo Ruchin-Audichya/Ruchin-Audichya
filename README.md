@@ -51,7 +51,7 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 <!--START:projects-->
 | Project | What it is | Built with | Updated |
 | --- | --- | --- | --- |
-| [**velo**](https://github.com/Ruchin-Audichya/velo) ⭐ 7 | Velo: WhatsApp, at home on Windows. A fast, native desktop client (unofficial). | Rust | today |
+| [**velo**](https://github.com/Ruchin-Audichya/velo) ⭐ 7 | Velo: WhatsApp, at home on Windows. A fast, native desktop client (unofficial). | Rust | yesterday |
 | [**portfolio**](https://github.com/Ruchin-Audichya/portfolio) | Source for ruchinaudichya.in: Next.js 14 portfolio with live, in-browser demos of Anvil… | TypeScript | 1 week ago |
 | [**MediAtlas**](https://github.com/Ruchin-Audichya/MediAtlas) | MediAtlas — The intelligence backbone powering MediFast with pharmacy networks, invento… | Python | 1 week ago |
 | [**Yatra-Sync**](https://github.com/Ruchin-Audichya/Yatra-Sync) ⭐ 1 | Shared-cab matching for commuters: groups riders going the same way and splits the fare… | TypeScript | 1 week ago |
@@ -82,12 +82,12 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
-- 🚀 Pushed to [velo](https://github.com/Ruchin-Audichya/velo) <sub>today</sub>
-- 📦 Released v1.3.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
-- 🔀 Closed PR #2 in [velo](https://github.com/Ruchin-Audichya/velo) <sub>4 days ago</sub>
+- 📦 Released v1.3.1 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
+- 🚀 Pushed to [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
+- 📦 Released v1.3.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>2 days ago</sub>
+- 🔀 Closed PR #2 in [velo](https://github.com/Ruchin-Audichya/velo) <sub>5 days ago</sub>
 - 🚀 Pushed to [winget-pkgs](https://github.com/Ruchin-Audichya/winget-pkgs) · `RuchinAudichya.Velo-1.0.0` <sub>1 week ago</sub>
-- 📦 Released v1.2.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>5 days ago</sub>
-- 📦 Released v1.1.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>5 days ago</sub>
+- 📦 Released v1.2.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>6 days ago</sub>
 <!--END:activity-->
 
 <p align="right"><sub>This page refreshes itself every day.</sub></p>
