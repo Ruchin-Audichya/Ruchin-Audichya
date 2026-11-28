@@ -82,10 +82,10 @@ Send your medicine list on Telegram. Every participating pharmacy nearby taps wh
 ### ⚡ Latest activity
 
 <!--START:activity-->
-- 🚀 Pushed to [velo](https://github.com/Ruchin-Audichya/velo) <sub>2 days ago</sub>
-- 📦 Released v1.3.1 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>2 days ago</sub>
-- 📦 Released v1.3.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>3 days ago</sub>
-- 🔀 Closed PR #2 in [velo](https://github.com/Ruchin-Audichya/velo) <sub>6 days ago</sub>
+- 🚀 Pushed to [velo](https://github.com/Ruchin-Audichya/velo) <sub>yesterday</sub>
+- 📦 Released v1.3.1 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>3 days ago</sub>
+- 📦 Released v1.3.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>4 days ago</sub>
+- 🔀 Closed PR #2 in [velo](https://github.com/Ruchin-Audichya/velo) <sub>1 week ago</sub>
 - 🚀 Pushed to [winget-pkgs](https://github.com/Ruchin-Audichya/winget-pkgs) · `RuchinAudichya.Velo-1.0.0` <sub>1 week ago</sub>
 - 📦 Released v1.2.0 of [velo](https://github.com/Ruchin-Audichya/velo) <sub>1 week ago</sub>
 <!--END:activity-->
